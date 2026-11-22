@@ -3,7 +3,7 @@ version: 1
 name: Hamada.K
 ---
 ## Posts
-- [Welcome to Poa](welcome.md)
+- [Hello, Poa](2026-11-19-hello.md)
 
 ## Poas I read
 - manujarvinen.github.io/poa
