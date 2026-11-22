@@ -1,9 +1,9 @@
 ---
 version: 1
-name: Hamada.K
+name: Hamada K
 ---
 ## Posts
-- [Hello, Poa](2026-11-19-hello.md)
+- [FirstPoa, Poa](2026-11-22-first-post.md)
 
 ## Poas I read
 - manujarvinen.github.io/poa
