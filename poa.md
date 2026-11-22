@@ -1,6 +1,6 @@
 ---
 version: 1
-name: Your Name
+name: Hamada.K
 ---
 ## Posts
 - [Welcome to Poa](welcome.md)
